@@ -1,2 +1,2 @@
 # Moon-Crater-Detection
-Using Unet Architecture for Segmenting the craters on Lunar surface.
+Using Unet and yolov5 Architecture for Segmenting the craters on Lunar surface.
